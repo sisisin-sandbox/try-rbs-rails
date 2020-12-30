@@ -1,0 +1,12 @@
+module ActionText
+end
+class ActionText::Record < ActiveRecord::Base
+end
+module ActionMailbox
+end
+class ActionMailbox::Record < ActiveRecord::Base
+end
+module ActiveStorage
+end
+class ActiveStorage::Record < ActiveRecord::Base
+end
